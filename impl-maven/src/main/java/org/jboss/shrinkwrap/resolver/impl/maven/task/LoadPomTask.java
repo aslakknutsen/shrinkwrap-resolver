@@ -19,6 +19,7 @@ package org.jboss.shrinkwrap.resolver.impl.maven.task;
 import java.io.File;
 
 import org.jboss.shrinkwrap.resolver.api.InvalidConfigurationFileException;
+import org.jboss.shrinkwrap.resolver.api.maven.Maven;
 import org.jboss.shrinkwrap.resolver.api.maven.MavenWorkingSession;
 import org.jboss.shrinkwrap.resolver.impl.maven.util.FileUtil;
 import org.jboss.shrinkwrap.resolver.impl.maven.util.Validate;

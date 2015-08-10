@@ -275,6 +275,8 @@
         <module>impl-maven-archive</module>
         <module>maven-plugin</module>
         <module>spi</module>
+        <module>bootstrap-maven</module>
+        <module>bootstrap-maven-ftest</module>
         <!-- Disabled by SHRINKRES-49, put it back with SHRINKRES-61 -->
         <!--<module>impl-maven-integration-tests</module>-->
     </modules>
